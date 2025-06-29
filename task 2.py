@@ -1,4 +1,4 @@
-'''print("1 - Add")
+print("1 - Add")
 print("2 - Subtract")
 print("3 - Multiply")
 print("4 - Divide")
@@ -21,5 +21,5 @@ if(option in [1,2,3,4]):
 else:
     print("Invalid operation entered")
 
-print("The result of the opperation is {}".format(result))'''  
+print("The result of the opperation is {}".format(result))
         
